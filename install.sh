@@ -68,7 +68,7 @@ check_token() {
     echo -e "${GREEN}Buy dulu Gih Ke WaysDevOfficial${NC}"
     echo -e "${YELLOW}TELEGRAM : https://t.me/userkingss${NC}"
     echo -e "${YELLOW}WHATSAPP : 628568773831${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
+    echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©WaysDevOfficial${NC}"
     exit 1
   fi
