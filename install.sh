@@ -21,7 +21,7 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@userkingss"
+  echo -e "@KingBackSolo"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
   echo -e "@WaysDevOfficial"
   sleep 4
@@ -66,7 +66,7 @@ check_token() {
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke WaysDevOfficial${NC}"
-    echo -e "${YELLOW}TELEGRAM : https://t.me/userkingss${NC}"
+    echo -e "${YELLOW}TELEGRAM : https://t.me/KingBackSolo${NC}"
     echo -e "${YELLOW}WHATSAPP : 628568773831${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©WaysDevOfficial${NC}"
@@ -454,7 +454,7 @@ while true; do
   echo -e "${RED}',gg       ,ggg.      'ggg:                                    ${NC}"
   echo -e "${RED}'ggg      ,gg'''  .    ggg    Auto Installer WaysDevOfficial   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg    ------------------------------   ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : t.me/userkingss   ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : t.me/KingBackSolo   ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : WaysDevOfficial   ${NC}"
   echo -e "${RED} ggg.    '.'''ggggggp           • Support by WaysDevOfficial   ${NC}"
   echo -e "${RED}  'ggg    '-.__                                                ${NC}"
