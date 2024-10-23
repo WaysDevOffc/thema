@@ -1,7 +1,7 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> https://t.me/userkingss
+>> https://t.me/KingBackSolo
 
 Comand Run Install Thema
 
